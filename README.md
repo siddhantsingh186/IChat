@@ -1,3 +1,7 @@
+# IChat
+
+A web based chat application made using React and sockets
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
